@@ -1,3 +1,4 @@
+<div align="center">
 <!-- ANIMATED TYPING -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems;Exploring+Artificial+Intelligence;Learning+Meta+LLaMA+%26+LLMs;Building+with+C%23+%26+.NET;Code+%2B+Design+%2B+AI;Turning+ideas+into+digital+products" alt="Typing animation"/>
