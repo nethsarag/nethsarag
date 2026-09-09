@@ -1,15 +1,3 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- PREMIUM HEADER -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Dumidu%20Nethsara%20Gunathilaka&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20LLM%20Explorer%20%7C%20Founder&descAlignY=58&descSize=18&color=0:0D1117,45:161B22,75:312E81,100:0D1117" width="100%"/>
-
-<br>
-
 <!-- ANIMATED TYPING -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems;Exploring+Artificial+Intelligence;Learning+Meta+LLaMA+%26+LLMs;Building+with+C%23+%26+.NET;Code+%2B+Design+%2B+AI;Turning+ideas+into+digital+products" alt="Typing animation"/>
