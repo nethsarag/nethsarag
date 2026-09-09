@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Dumidu%20Nethsara%20Gunathilaka&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20LLM%20Explorer%20%7C%20Founder&descAlignY=58&descSize=18" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api](https://media.licdn.com/dms/image/v2/D5603AQFenTw-KFtByw/profile-displayphoto-scale_400_400/B56Z88PWTeIoAk-/0/1783422086775?e=1790812800&v=beta&t=1py0Jy5rqgrYcbXJV6K86c5lNHAYijm7Jlgo3Yznh20)?type=waving&height=180&section=header&text=Dumidu%20Nethsara%20Gunathilaka&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20LLM%20Explorer%20%7C%20Founder&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
