@@ -46,23 +46,6 @@
 
 <br>
 
-## About me
-
-I'm an **Information and Communication Technology undergraduate and software developer from Sri Lanka**, interested in building practical digital products at the intersection of software, artificial intelligence, and design.
-
-My background combines:
-
-* Software development
-* Artificial intelligence and LLM exploration
-* Computer graphic design
-* Web interface design
-* Entrepreneurship
-* Project and business process concepts
-
-I'm currently focused on expanding my skills in **AI application engineering, LLMs, Meta LLaMA, local AI and .NET development**.
-
----
-
 <div align="center">
 
 ### 🧠 Current mission
