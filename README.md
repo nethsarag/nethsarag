@@ -2,16 +2,22 @@
 
 # Hi, I'm Dumidu Nethsara Gunathilaka
 
-### AI & Software Developer
+### Software Developer · AI/LLM Explorer · Founder · Creative Technologist
 
-<a href="https://github.com/nethsarag">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Learning+LLMs+and+LLaMA;Exploring+local+AI+and+fine-tuning;Building+with+.NET+and+C%23;Turning+ideas+into+software" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+software+that+solves+real+problems;Exploring+AI%2C+LLMs+and+LLaMA;Developing+with+.NET+and+C%23;Turning+ideas+into+digital+products;Code+%2B+Design+%2B+AI" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/nethsarag">
-  <img src="https://komarev.com/ghpvc/?username=nethsarag&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=nethsarag&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+
+<a href="https://www.linkedin.com/in/dumidu-gunathilaka">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@nethsara_areca">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 </div>
@@ -20,51 +26,67 @@
 
 ## About me
 
-I'm a developer focused on building practical software and exploring the rapidly evolving world of artificial intelligence.
+I'm an Information and Communication Technology undergraduate and software developer from Sri Lanka, interested in building practical digital products at the intersection of **software, artificial intelligence, and design**.
 
-Currently, I'm particularly interested in:
+My development journey combines technical development with creative problem-solving and entrepreneurship.
 
-* Artificial intelligence and LLM application development
-* Meta LLaMA and local language models
-* LLM fine-tuning and model experimentation
-* AI-powered desktop applications
-* .NET and C# development
-* Building useful products from ideas
+I'm currently exploring **AI application development, large language models, Meta LLaMA, local AI, and .NET development**, while continuing to build and experiment with software projects.
 
-I'm currently learning, building, experimenting, and documenting the journey.
+I also have a background in computer graphic design, giving me a perspective that combines **engineering, user experience, and visual communication**.
+
+---
+
+## What I do
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  SOFTWARE DEVELOPMENT                                │
+│  Building applications and digital products          │
+│                                                      │
+│  ARTIFICIAL INTELLIGENCE                             │
+│  Exploring LLMs, LLaMA and AI applications           │
+│                                                      │
+│  CREATIVE TECHNOLOGY                                │
+│  Combining design, interfaces and technology         │
+│                                                      │
+│  ENTREPRENEURSHIP                                    │
+│  Turning ideas into products and businesses          │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## Current focus
 
-<table>
-<tr>
-<td width="50%">
+### Artificial intelligence
 
-### AI & LLMs
-
-* LLaMA
-* Local LLMs
-* Prompt engineering
+* Large Language Models
+* Meta LLaMA
+* Local AI
 * AI application development
+* LLM experimentation
 * Fine-tuning
-* Model experimentation
+* AI engineering
 
-</td>
-<td width="50%">
-
-### Software development
+### Software engineering
 
 * C#
 * .NET
 * WPF
+* Python
+* Java
 * JavaScript
-* CSS
 * Git & GitHub
 
-</td>
-</tr>
-</table>
+### Design & creative technology
+
+* UI-focused design
+* Web interface graphics
+* Concept development
+* Sketching
+* Computer graphic design
 
 ---
 
@@ -72,29 +94,84 @@ I'm currently learning, building, experimenting, and documenting the journey.
 
 ### AudioDuck
 
-A C# desktop application I'm currently developing with .NET.
+A Windows desktop application I'm developing with **C# and .NET**.
 
-**Focus:** Windows desktop development, audio processing and application architecture.
+The project represents my current exploration of desktop software engineering and application development.
 
-[View AudioDuck →](https://github.com/nethsarag/AudioDuck)
+[View repository →](https://github.com/nethsarag/AudioDuck)
 
 ---
 
 ### LLaMA Meta Learning Journey
 
-My ongoing journey into Meta's LLaMA ecosystem.
+My ongoing journey into **Meta's LLaMA ecosystem**.
 
-I'm using this project to document what I learn while exploring LLMs, local model execution, AI application development and fine-tuning.
+This repository documents my learning and experimentation around large language models, local AI, AI application development and eventually fine-tuning.
 
-[View learning journey →](https://github.com/nethsarag/Llama-Meta-Learning-Journey)
+[View repository →](https://github.com/nethsarag/Llama-Meta-Learning-Journey)
 
 ---
 
 ### Portfolio
 
-My personal portfolio and previous development work.
+My personal portfolio and collection of development work.
 
-[View portfolio →](https://github.com/nethsarag/Nethsara-Gunathilaka---Portfolio)
+[View repository →](https://github.com/nethsarag/Nethsara-Gunathilaka---Portfolio)
+
+---
+
+### Project Calculator
+
+A software project exploring application development and programming fundamentals.
+
+[View repository →](https://github.com/nethsarag)
+
+---
+
+## Experience
+
+```text
+2026 — Present
+Developer
+Areca
+
+2026 — Present
+Webmaster
+I Club · Uva Wellassa University
+
+2022 — Present
+Founder
+Areca Graphics
+
+2025 — 2026
+Co-Founder
+Boost Panda
+
+2023 — 2024
+Graphic Designer
+Vocational Training Authority
+```
+
+---
+
+## Education
+
+**Bachelor of Information and Communication Technology**
+Uva Wellassa University of Sri Lanka
+
+**NVQ Level 04 — Computer Graphic Designer**
+Vocational Training Authority
+
+---
+
+## Certifications & learning
+
+* NVQ Level 4 – Computer Graphic Designer
+* Introduction to Project Management with ClickUp
+* EF SET English Certificate — Reading C2 Proficient
+* EF SET English Certificate — Listening C1 Advanced
+* Business Analysis & Process Management
+* Java Programming for Complete Beginners
 
 ---
 
@@ -102,15 +179,19 @@ My personal portfolio and previous development work.
 
 <div align="center">
 
-### Languages
+### Programming
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css" />
 
-### Frameworks & platforms
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=dotnet,github,git,vscode" />
+### Development
 
-### AI & data
+<img src="https://skillicons.dev/icons?i=dotnet,git,github,vscode" />
+
+<br><br>
+
+### AI & Data
 
 <img src="https://skillicons.dev/icons?i=python,pytorch" />
 
@@ -118,7 +199,7 @@ My personal portfolio and previous development work.
 
 ---
 
-## GitHub statistics
+## GitHub activity
 
 <div align="center">
 
@@ -128,51 +209,87 @@ My personal portfolio and previous development work.
 
 </div>
 
----
-
-## Contribution graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nethsarag&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nethsarag&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## Currently learning
+## My learning path
+
+<div align="center">
 
 ```text
-Artificial Intelligence
-        ↓
-Large Language Models
-        ↓
-Meta LLaMA
-        ↓
-Local Model Deployment
-        ↓
-Fine-tuning
-        ↓
-AI Application Engineering
+SOFTWARE
+    │
+    ├── C# / .NET
+    │
+    ├── Python
+    │
+    └── Web Development
+            │
+            ▼
+       ARTIFICIAL INTELLIGENCE
+            │
+            ├── LLM Applications
+            │
+            ├── Local Models
+            │
+            ├── Meta LLaMA
+            │
+            └── Fine-tuning
+                    │
+                    ▼
+             AI ENGINEERING
 ```
+
+</div>
 
 ---
 
-## Let's build something
+## Beyond code
 
-I'm interested in AI, software engineering, developer tools, and projects that turn interesting ideas into useful products.
+I believe good technology isn't only about writing code.
+
+My background in **graphic design, entrepreneurship, project management, and software development** allows me to approach problems from different perspectives.
+
+I enjoy exploring the space where:
+
+**Technology × Design × Business × AI**
+
+come together to create useful products.
+
+---
+
+## Connect with me
 
 <div align="center">
 
 <a href="https://github.com/nethsarag">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-nethsarag-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/dumidu-gunathilaka">
+<img src="https://img.shields.io/badge/LinkedIn-Dumidu%20Gunathilaka-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://www.youtube.com/@nethsara_areca">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-Nethsara_Areca-FF0000?style=for-the-badge&logo=youtube" />
 </a>
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
+
+### "Build. Learn. Experiment. Repeat."
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" />
 
