@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems;Exploring+Artificial+Intelligence;Learning+Meta+LLaMA+%26+LLMs;Building+with+C%23+%26+.NET;Code+%2B+Design+%2B+AI;Turning+ideas+into+digital+products" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems;Exploring+Artificial+Intelligence;Learning+Meta+LLaMA+%26+LLMs;Building+with+C%23+%26+.NET;Code+%2B+Design+%2B+AI;Turning+ideas+into+digital+products" alt="Typing animation"/>
 
 <br><br>
 
