@@ -32,11 +32,11 @@
 
 ### Languages, Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,js,html,css,git,github,vscode,pytorch&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,js,html,css,git,github,vscode,pytorch,react,nodejs,postgres&perline=6" />
 
 <br><br>
 
-<sub><b style="color:#39D353">Python · C# · .NET · Java · JavaScript · HTML · CSS · Git · GitHub · VS Code · PyTorch</b></sub>
+<sub><b style="color:#39D353">Python · C# · .NET · Java · JavaScript · HTML · CSS · Git · GitHub · VS Code · PyTorch · React · Node.js · PostgreSQL · Meta LLaMA</b></sub>
 
 <br><br>
 
