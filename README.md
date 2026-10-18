@@ -1,71 +1,64 @@
-<div align="center">
-
-![Typing animation](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems;Creator+of+Areca+%7C+Sri+Lanka;Shipping+Chrome+extensions+%26+.NET+tools;Exploring+AI%2C+Meta+LLaMA+%26+LLMs;Code+%2B+Design+%2B+AI)
-
-[![GitHub](https://img.shields.io/badge/GitHub-nethsarag-0D1117?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/nethsarag)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dumidu%20Gunathilaka-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/dumidu-gunathilaka)
-[![YouTube](https://img.shields.io/badge/YouTube-Nethsara_Areca-0D1117?style=for-the-badge&logo=youtube&logoColor=39D353)](https://www.youtube.com/@nethsara_areca)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Dumidu Nethsara Gunathilaka**, a developer from Sri Lanka and the creator of **Areca**. I like turning small ideas into polished, usable products, from browser extensions to desktop utilities and web apps, with a focus on clean design and smooth user experience.
-
-- 🌱 **Currently working on:** polishing **Drop A Note**, my Chrome extension, ready for the Chrome Web Store
-- 🧠 **Currently exploring:** AI, Meta LLaMA and LLMs
-- 🏢 **Organization:** [Areca-Fountain](https://github.com/Areca-Fountain)
-- 🎥 **Content:** videos and updates on [YouTube](https://www.youtube.com/@nethsara_areca)
-
----
-
-## 🚀 What I'm Building
-
-### 📝 Drop A Note: Quick Browser Notepad
-A Chrome extension that gives you a fast notepad right in your browser popup.
-
-- Google sign-in with Firebase / Firestore sync across devices
-- Card-based notes: select one or select all, bulk delete, pin to top
-- One-click copy (copies the note body only)
-- Light/dark mode and account details tucked into a settings page
-- Clean sans-serif UI with small, smooth animations
-
-> Status: UI polish in progress, with a Chrome Web Store release as the goal.
-
----
-
-## 📌 Featured Projects
-
-| Project | Stack | What it is |
-|---|---|---|
-| [**doctor-bank-public-edition**](https://github.com/Areca-Fountain/doctor-bank-public-edition) | TypeScript | Public edition of a project from Areca-Fountain |
-| [**MegaPod**](https://github.com/CoinCeylon/MegaPod) | JavaScript | Project under the CoinCeylon org |
-| [**AudioDuck**](https://github.com/nethsarag/AudioDuck) | C# / .NET | Audio utility for Windows |
-
----
-
-## 🛠️ Tech Stack
-
-![Tech stack](https://skillicons.dev/icons?i=python,cs,dotnet,java,js,html,css,git,github,vscode,pytorch,react,nodejs,postgres&perline=7)
-
-**Also:** Chrome Extensions · Firebase / Firestore · Figma · Meta LLaMA
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Streak stats](https://streak-stats.demolab.com/?user=nethsarag&theme=transparent&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&locale=en&short_numbers=false)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:0D1117,50:58A6FF,100:0D1117)
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="670px" font-size="16px" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1MDQwYWY2NC0zOTEwLTRhODctYTU0NC0wOGQ5OWM2ZWVjZTYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaN09004Ce9B3lBi135GUqU8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphMDkyNGI3ZC0yZDYxLTQ4MjYtYWY4Mi00ZDFkMzk3MTZhYzNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoJupxlqCabykiRn5lCxOe9wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggA6G5P/QMNiTcbHSzegloHcy40t/K0tAJ7R8EZQjKZuOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHoY75yvdVMWYtMU0u4U9Y8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCucyULGSQYxQvu+959FBMlf763L2DpDXDZGzPSZ4ltCGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiVZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjUwNDBhZjY0LTM5MTAtNGE4Ny1hNTQ0LTA4ZDk5YzZlZWNlNi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjU3MzU5ZWVmLTI4NzMtNDhlMy1hZjE1LWJjZTI5MTEwMTNkZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCADobk/9Aw2JNxsdLN6CWgdzLjS38rS0AntHwRlCMpm46JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg72F79uoH3RoDTDP51rhAX7ZV3LMOrkUFXHztbbhNRoyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggZp9H3Tt7QckWQdXlciWBVMiWp98Pd0FpOpj+iUXbKzV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBdNIvzkzDShIp5OvugE69b2p0zWsPA3k5kGDqG4Z+ai1wY1oK/LEz7+awq5nG00y4z9ywyHnzVxiaX49Eh/fMQ=</c2pa:manifest></metadata>
+<style>
+@font-face{font-family:"Consolas";}
+.ascii{fill:#c9d1d9;font-family:ConsolasFallback,Consolas,"Courier New",monospace;white-space:pre}
+text,tspan{white-space:pre;font-family:ConsolasFallback,Consolas,"Courier New",monospace}
+.key{fill:#ffa657}.value{fill:#a5d6ff}.cc{fill:#616e7c}.add{fill:#3fb950}.del{fill:#f85149}.hdr{fill:#c9d1d9}
+</style>
+<rect width="985px" height="670px" fill="#161b22" rx="15"/>
+<text x="15" y="40" class="ascii" fill="#c9d1d9">
+<tspan x="15" y="40.0">,,,,,,,,,,,,,,,,,........... ........,,,,,,,,,,,,,,,,,,,</tspan>
+<tspan x="15" y="56.4">,,,,,,,,,,,,,,,....     .,,:::,  .......,,,,,,,,,,,,,,,,</tspan>
+<tspan x="15" y="72.8">,,,,,,,,,,,,,,.....:1LftC0@%%M%8t,  .....,,,,,,,,,,,,,,,</tspan>
+<tspan x="15" y="89.2">,,,,,,,,,,,,.... :C@MMM%%M%%%%MMM%C1.  ...,,,,,,,,,,,,,,</tspan>
+<tspan x="15" y="105.6">,,,,,,,,,,......;0M%MMMMMM%%M%%%%MMM0C: ...,,,,,,,,,,,,,</tspan>
+<tspan x="15" y="122.0">,,,,,,,,,,... :f0%%MMM%888@%%%%%%MMMMM@, ..,,,,,,,,,,:::</tspan>
+<tspan x="15" y="138.4">,,,,,,,,,,... f%M%%M@Cti;;;1tfG@%%MM%%MC ...,,,,,,::::::</tspan>
+<tspan x="15" y="154.8">::::,,,,,.... CM%%@%01i;::::;itG%%%%%%M%, ..,,,,,:::::::</tspan>
+<tspan x="15" y="171.2">::::,,,,,,... fM%%%MCt1i;:,,,,:10MM%%%MMf...,,,::::::;;;</tspan>
+<tspan x="15" y="187.6">:::::,,,,,... :@M%M01ttLfti::itfff0%M%MML,.,,,,::::;;;;;</tspan>
+<tspan x="15" y="204.0">::::::,,,,....tMMMMLit1L1t1::tttGttfMMMMf,.,,,::::;;;;;;</tspan>
+<tspan x="15" y="220.4">::::::,,,,,...:C%%%t;:::;;:,,;;;:;i10%8%G:.,,:::::;;;;;;</tspan>
+<tspan x="15" y="236.8">::::::::,,,,..  ;tCf;:,,:;i:;i;:,:;t80t:..,,,::::;;;;;;;</tspan>
+<tspan x="15" y="253.2">;;;:::::,,,,,....i1fi;:;i1111t1i;;iLLf: .,,,::::;;;;;;;;</tspan>
+<tspan x="15" y="269.6">;;;;::::::,,,,...:C@ti;i1t11ttf1ii1Ci:..,,,::::;;;;;;;;i</tspan>
+<tspan x="15" y="286.0">;;;;;;::::::,,,,.:CM0tti;;i1i;:;tfGM@t.,,,:::;;;;;;;iiii</tspan>
+<tspan x="15" y="302.4">;;;;;;;;::::::,,,,.:fLCL11i;i11LGLG0Ci,,::::;;;;;;iiiiii</tspan>
+<tspan x="15" y="318.8">;;;;;;;;;;::::,,. :fittfLCCCCCCLtf1, .,,:::;;;;;iiiiiiii</tspan>
+<tspan x="15" y="335.2">;;;;;;;;:::,,...;LMf :1iiiiii11111.0f,,,,:::;;;;iiiiiiii</tspan>
+<tspan x="15" y="351.6">iii;;::::,,,,ifG%%Mt   :i;;i1t1i, :MM0CL1;::;;;;;;iiiiii</tspan>
+<tspan x="15" y="368.0">i;::::,,:itC8%%%%@%0    ,1i;;,.   8M%%MMM@Gf1i;;;iiiiii1</tspan>
+<tspan x="15" y="384.4">:;:::;tC8%MM%@@@@%@@: ,C8880G1   C%%%%%%M%MM%@8GCf1iii1i</tspan>
+<tspan x="15" y="400.8">;:;tG%MMMM%@@@@@@@@%f,t888888%C tM%%@@%@%M%M%MMMMM@0Cf1t</tspan>
+<tspan x="15" y="417.2">i0@MM%%@@%MM%@@@@@@@%t t@88@@f:1@%%%%@%%MMM%%%%%@%%MMML1</tspan>
+<tspan x="15" y="433.6">LM%%%@@%%@%MM@@@@@@@@0,C0GGG8::0%@@@%@@%MM%%%%@@%%%%@%%L</tspan>
+<tspan x="15" y="450.0">@%%%@%@@@@@%%%@@@@@@@%tG0GGGGtC@@@@@@@%%MM%@%@@%%%@@%%M@</tspan>
+<tspan x="15" y="466.4">%%%%@@%8@@@@%%@@@@@@8@800GGCG08@8@@@@@%%M@@@%@@%%@@@@%%%</tspan>
+<tspan x="15" y="482.8">@%%%@@%@8@@@@%%@@@@@@8%@GCCCG@@88@@@@@%%%@@@@%@%%@@@@%%%</tspan>
+<tspan x="15" y="499.2">@%%%@@%%88@@@@%%@@@@88@@GCCGG@@88@@@@@%%@@@@@@@%@8@@%%%%</tspan>
+<tspan x="15" y="515.6">%%%%@@@M@88@@@@%%@@@@@8@0GGG0@888@@%%%M%@@@@@@M%@@@%%%%%</tspan>
+</text>
+<text x="470" y="40">
+<tspan x="470" y="40" class="hdr">dumidu@nethsarag —————————————————————————————————————————————————-—-</tspan>
+<tspan x="470" y="60" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............................................... </tspan><tspan class="value">Windows, Linux</tspan>
+<tspan x="470" y="80" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................................................. </tspan><tspan class="value">21 years</tspan>
+<tspan x="470" y="100" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Uva Wellassa University of Sri Lanka</tspan>
+<tspan x="470" y="120" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">BICT Undergraduate, Software Technology</tspan>
+<tspan x="470" y="140" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">:</tspan><tspan class="cc"> ...................................................... </tspan><tspan class="value">VSCode</tspan>
+<tspan x="470" y="160" class="cc">. </tspan>
+<tspan x="470" y="180" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc">:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">JavaScript, TypeScript, Java, Python</tspan>
+<tspan x="470" y="200" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">HTML, CSS, JSON, SQL</tspan>
+<tspan x="470" y="220" class="cc">. </tspan><tspan class="key">Languages.Real</tspan><tspan class="cc">:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Sinhala, English, Japanese (elementary)</tspan>
+<tspan x="470" y="240" class="cc">. </tspan>
+<tspan x="470" y="260" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan><tspan class="cc">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">Web Apps, Chrome Extensions, PWAs</tspan>
+<tspan x="470" y="280" class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">PC Building</tspan>
+<tspan x="470" y="300" class="cc">. </tspan>
+<tspan x="470" y="320" class="hdr">- Contact ————————————————————————————————————————————————————————-—-</tspan>
+<tspan x="470" y="340" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">dumidugunathilaka</tspan>
+<tspan x="470" y="360" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................................................ </tspan><tspan class="value">nethsarag</tspan>
+<tspan x="470" y="380" class="cc">. </tspan><tspan class="key">Roles</tspan><tspan class="cc">:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Webmaster @ I Club UWU, Dev @ Areca</tspan>
+<tspan x="470" y="400" class="cc">. </tspan>
+<tspan x="470" y="420" class="hdr">- GitHub Stats ———————————————————————————————————————————————————-—-</tspan>
+<tspan x="470" y="440" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: ............... </tspan><tspan class="value">00</tspan><tspan class="hdr"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: ........ </tspan><tspan class="value">00</tspan>
+<tspan x="470" y="460" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: .......... </tspan><tspan class="value">0,000</tspan><tspan class="hdr"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: ........ </tspan><tspan class="value">00</tspan>
+</text></svg>
