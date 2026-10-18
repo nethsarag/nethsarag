@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Dumidu%20Gunathilaka&fontSize=54&fontColor=ffffff&animation=twinkling" alt="Hail ARECA header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Hail%20Areca&fontSize=54&fontColor=ffffff&animation=twinkling" alt="Hail ARECA header" />
 </p>
 
 <h3 align="center">
