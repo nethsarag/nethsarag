@@ -1,85 +1,230 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Hail%20Areca&fontSize=54&fontColor=ffffff&animation=twinkling" alt="Hail ARECA header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dumidu%20Gunathilaka&fontSize=60&animation=twinkling" alt="Dumidu Gunathilaka profile header" />
 </p>
 
+<!-- Title -->
 <h3 align="center">
-  <samp>&gt; DevOps Engineer (aspiring) · Full-Stack Builder · BICT @ Uva Wellassa</samp>
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/dumidugunathilaka">Dumidu Gunathilaka</a></b>
+    </samp>
 </h3>
 
+<br>
+
 <p align="center">
-  <samp>「 I like the part that starts after the code is written: build, test, deploy, keep it running. 」</samp>
+<samp>
+「 DevOps Engineer building, testing, deploying and securing web apps, extensions and desktop tools 」
+</samp>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dumidugunathilaka"><img src="https://img.shields.io/badge/LinkedIn-dumidugunathilaka-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@nethsara_areca"><img src="https://img.shields.io/badge/YouTube-Nethsara__Areca-0D1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
-  <a href="https://github.com/Areca-Fountain"><img src="https://img.shields.io/badge/org-Areca--Fountain-0D1117?style=flat-square&logo=github&logoColor=39D353" alt="Areca-Fountain" /></a>
-  <a href="mailto:nethsaraforenglish@gmail.com"><img src="https://img.shields.io/badge/email-nethsaraforenglish@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-</p>
-
----
-
-## `> whoami`
-
-| | |
-|---|---|
-| **Now** | DevOps Engineer (Development) @ Areca, freelance, since May 2026 |
-| **Study** | BSc ICT, Uva Wellassa University of Sri Lanka (intake Aug 2024) |
-| **Community** | Webmaster, I Club of Uva Wellassa University · University Ambassador, gapHQ (2nd AI International Conference 2027) |
-| **Background** | Founded Areca Graphics (4 yrs, registered sole proprietorship) · Co-founded Boost Panda · Graphic Designer, VTA |
-| **Languages** | English (EF SET: Reading C2, Listening C1) · Japanese (elementary) |
-| **Location** | Polonnaruwa, Sri Lanka |
-
----
-
-## `> stack`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,firebase,vercel,aws,git,github,githubactions,cs,dotnet,python,postgres&perline=8" alt="Tech stack icons" />
-</p>
-
-| Domain | Tools |
-|---|---|
-| **DevOps / Cloud** | AWS (fundamentals) · Vercel deployments · Git/GitHub · build, test, deploy, run pipelines |
-| **Web** | JavaScript · TypeScript · React · Node.js · PWA · Chrome Manifest V3 · Vite |
-| **Backend services** | Firebase (Auth, Firestore, cloud sync) · PostgreSQL |
-| **Security** | Web application security · Firestore rules · secret scanning · dependency audit |
-| **Desktop** | C# · .NET 10 · WPF · NAudio · WebSocket IPC |
-| **Delivery** | ClickUp project management · business analysis & process management |
-
----
-
-## `> projects`
-
-| Project | Stack | Summary |
-|---|---|---|
-| **LinkPocket** | PWA · Vercel | Installable link-saving app, deployed on Vercel. |
-| **Drop A Note** | Chrome MV3 · Vite · Firebase · Google sign-in | Chrome extension and web notepad with cloud sync. In security review ahead of public release. |
-| [**AudioDuck**](https://github.com/nethsarag/AudioDuck) | C# · .NET 10 · WPF · NAudio | Ducks a primary audio source when a browser plays Reels/Shorts/TikTok. Chromium extension signals the desktop app over local WebSocket (`127.0.0.1:17654`). |
-| [**doctor-bank-public-edition**](https://github.com/Areca-Fountain/doctor-bank-public-edition) | TypeScript | Public edition under Areca-Fountain. |
-| [**MegaPod**](https://github.com/CoinCeylon/MegaPod) | JavaScript | Contribution to CoinCeylon. |
-
----
-
-## `> now`
-
-- **Drop A Note:** hardening for release (`npm audit`, gitleaks/trufflehog, Firestore rules, repo size cleanup)
-- **AudioDuck:** session discovery UI, extension pairing token, tray mode, signed installer
-- **DevOps:** CI/CD and deployment workflows, AWS beyond the basics
-- **LLM engineering:** project-driven Llama learning path
-
----
-
-## `> certifications`
-
-AWS Basics (Crash Course) · NVQ Level 4 Computer Graphic Designer · Project Management with ClickUp · Business Analysis & Process Management · EF SET English (C2/C1)
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nethsarag&theme=transparent&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub streak" />
+  <a href="https://github.com/Areca-Fountain">
+    <img src="https://img.shields.io/badge/org-Areca--Fountain-22c55e?style=flat-square&logo=github" alt="Areca-Fountain org" />
+  </a>
+  <a href="https://www.youtube.com/@nethsara_areca">
+    <img src="https://img.shields.io/badge/YouTube-Nethsara__Areca-a78bfa?style=flat-square&logo=youtube" alt="YouTube channel" />
+  </a>
+  <a href="mailto:nethsaraforenglish@gmail.com">
+    <img src="https://img.shields.io/badge/open%20to-collaboration-f59e0b?style=flat-square" alt="Open to collaboration" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" alt="footer" />
+  <a href="https://www.linkedin.com/in/dumidugunathilaka"><b>LinkedIn</b></a>
+  &nbsp;|&nbsp;
+  <a href="https://www.youtube.com/@nethsara_areca"><b>YouTube</b></a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/Areca-Fountain"><b>Areca-Fountain</b></a>
+</p>
+
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/nethsarag)
+
+<!-- Core panel -->
+<table align="center" width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td align="center" valign="top" width="25%"><samp><b>ROLE</b><br>DevOps Engineer<br>(Development)<br>@ Areca</samp></td>
+<td align="center" valign="top" width="25%"><samp><b>STUDY</b><br>BSc ICT<br>Uva Wellassa<br>University</samp></td>
+<td align="center" valign="top" width="25%"><samp><b>FOCUS</b><br>CI/CD · Cloud<br>Web Security<br>Firebase</samp></td>
+<td align="center" valign="top" width="25%"><samp><b>BASE</b><br>Polonnaruwa<br>Sri Lanka</samp></td>
+</tr>
+</table>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/nethsarag)
+
+# 🛠 Technologies, Projects, and Domains
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
+
+<h3>🛠 Technologies</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="32" alt="Firebase"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" alt="C#"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="32" alt=".NET"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" alt="Git"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" alt="VS Code"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="32" alt="Chrome Extensions"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" alt="PyTorch"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" alt="HTML5"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" alt="CSS3"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" alt="Figma"/></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- PROJECTS -->
+<td width="260" valign="top" align="left">
+
+<h3 align="center">🧪 Projects</h3>
+<br>
+
+<samp>
+<a href="https://github.com/nethsarag/AudioDuck"><b>AudioDuck</b></a><br>
+C# · .NET 10 · WPF · WebSocket<br><br>
+<b>Drop A Note</b><br>
+Chrome MV3 · Firebase · Vite<br><br>
+<b>LinkPocket</b><br>
+PWA · Vercel<br><br>
+<a href="https://github.com/Areca-Fountain/doctor-bank-public-edition"><b>doctor-bank</b></a><br>
+TypeScript<br><br>
+<a href="https://github.com/CoinCeylon/MegaPod"><b>MegaPod</b></a><br>
+JavaScript
+</samp>
+
+</td>
+
+<!-- DOMAINS -->
+<td width="260" valign="top" align="left">
+
+<h3 align="center">🧠 Domains</h3>
+<br>
+
+<samp>
+<b>DevOps</b><br>
+CI/CD · deployment · AWS<br><br>
+<b>Web Security</b><br>
+secret scanning · dependency audit · Firestore rules<br><br>
+<b>Full-Stack Web</b><br>
+PWAs · extensions · cloud sync<br><br>
+<b>Desktop / Audio</b><br>
+Windows Core Audio sessions<br><br>
+<b>LLM Engineering</b><br>
+Meta Llama (learning)
+</samp>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/nethsarag)
+
+### 📊 Vital Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nethsarag&theme=radical" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethsarag&theme=radical" alt="GitHub profile contribution summary" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nethsarag&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/nethsarag)
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: NOW -->
+<td width="33%" valign="top">
+
+<h2>⚙️ Now</h2>
+
+<ul>
+  <li>Drop A Note: security hardening for public release</li>
+  <li>AudioDuck: pairing token, tray mode, signed installer</li>
+  <li>DevOps: CI/CD and AWS beyond the basics</li>
+  <li>Llama: project-driven LLM engineering</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: COLLAB -->
+<td width="34%" valign="top">
+
+<h2 align="center">🤝 Collaboration</h2>
+
+I’m open to collaborating on:
+
+<ul>
+  <li>CI/CD and deployment pipelines</li>
+  <li>Chrome extensions and PWAs</li>
+  <li>Web application security reviews</li>
+  <li>LLM / Llama projects</li>
+</ul>
+
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="mailto:nethsaraforenglish@gmail.com">
+  <img src="https://img.shields.io/badge/email-nethsaraforenglish@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/dumidugunathilaka">
+  <img src="https://img.shields.io/badge/linkedin-dumidugunathilaka-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
+
+<a href="https://www.youtube.com/@nethsara_areca">
+  <img src="https://img.shields.io/badge/youtube-nethsara__areca-red?style=for-the-badge&logo=youtube" alt="YouTube channel link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/nethsarag)
+
+<p align="center">
+⚡ Building, shipping and securing software
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
